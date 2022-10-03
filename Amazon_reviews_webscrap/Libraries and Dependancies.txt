@@ -1,0 +1,18 @@
+    DEPENDANT THIRD PARTY DOWNLOADS
+
+    The two below are used to web scrap and explained in more detail in the Python Notebook
+
+Docker - https://www.docker.com/products/docker-desktop 
+Splash - https://splash.readthedocs.io/en/stable/ 
+
+    IMOORTED AND DOWNLADED LIBRARIES
+
+Requests
+BeautifulSoup
+Pandas
+Numpy
+Wordcloud
+Matplotlib.pyplot
+Nltk 
+Nltk downlaod 'vader Lexicon'
+SentimentIntensityAnalyzer
